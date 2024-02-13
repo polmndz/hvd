@@ -137,7 +137,10 @@ body{
     .description{
         font-size: 5px;
     }
-    
+    .description1{
+        text-align: center;
+        font-size: 5px;
+    }
     .button a{
         font-size: 10px;
     }
